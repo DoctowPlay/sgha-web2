@@ -1,0 +1,8 @@
+bin/
+out/
+build/
+.gradle/
+.settings/
+*.class
+*.war
+uploads/
